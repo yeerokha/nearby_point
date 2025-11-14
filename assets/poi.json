@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "name": "Coffee Point",
+      "lat": 43.238949,
+      "lng": 76.889709,
+      "category": "cafe",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Gas Station",
+      "lat": 43.242,
+      "lng": 76.895,
+      "category": "gasStation",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Car Wash",
+      "lat": 43.245,
+      "lng": 76.884,
+      "category": "carService",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Shopping Mall",
+      "lat": 43.241,
+      "lng": 76.892,
+      "category": "shopping",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Restaurant",
+      "lat": 43.237,
+      "lng": 76.888,
+      "category": "restaurant",
+      "isFavorite": false
+    }
+  ]
+}
